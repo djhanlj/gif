@@ -1,16 +1,17 @@
 # gif
 
-A new Flutter project.
+App que lista, pesquisa e compartilha Gifs
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este é um projeto do curso de flutter (https://www.udemy.com/course/curso-completo-flutter-app-android-ios)
 
-A few resources to get you started if this is your first Flutter project:
+O App tem os seguintes recursos:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Conexão a `API` do serviço `giphy.com`
+- Listagem de gifs
+- Pesquisa de gifs
+- Navegação entre telas
+- Compartilhamento de links de gif
+- Estilização do layout
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
